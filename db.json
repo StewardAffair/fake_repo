@@ -1,0 +1,67 @@
+{
+  "categoties": [
+    {
+      "id": "1",
+      "name": "Власне виробництво",
+      "items": [
+        {
+          "id": "1",
+          "name": "ковбаси",
+          "picture": "https://cooker.net.ua/upload/ammina.optimizer/jpg/q80/upload/resize_cache/iblock/595/200_180_0/Kovbasy.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Сосиски",
+          "picture": "https://cooker.net.ua/upload/ammina.optimizer/jpg/q80/upload/resize_cache/iblock/e49/200_180_0/Sosysky_i_sardelky.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Деликатеси",
+          "picture": "https://cooker.net.ua/upload/ammina.optimizer/jpg/q80/upload/resize_cache/iblock/a16/200_180_0/Myasni_delicatesy.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Лідери дегустацій",
+      "items": [
+        {
+          "id": "4",
+          "name": "дитяча ковбаса",
+          "picture": "https://cooker.net.ua/upload/ammina.optimizer/jpg/q80/upload/resize_cache/iblock/e4a/250_225_0/Dytiacha_vs_(Chereva).jpg"
+        },
+        {
+          "id": "5",
+          "name": "Ковбаски гриль",
+          "picture": "https://cooker.net.ua/upload/ammina.optimizer/jpg/q80/upload/resize_cache/iblock/545/250_225_0/SMK_Kovbaski_gryl_paperony.jpg"
+        },
+        {
+          "id": "6",
+          "name": "Мясо для шашлику",
+          "picture": "https://cooker.net.ua/upload/ammina.optimizer/jpg/q80/upload/resize_cache/iblock/149/250_225_0/Myaso_dlya_shashlyku_Luks.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "До пива",
+      "items": [
+        {
+          "id": "7",
+          "name": "Ковбаски янтарн",
+          "picture": "https://cooker.net.ua/upload/ammina.optimizer/jpg/q80/upload/resize_cache/iblock/bdc/250_225_0/Bohodukhov_Kovbasky_iantarni_iz_miasa_ptytsi_3.jpg"
+        },
+        {
+          "id": "8",
+          "name": "Ковбаски мисливськи",
+          "picture": "https://cooker.net.ua/upload/ammina.optimizer/jpg/q80/upload/resize_cache/iblock/49b/250_225_0/SMK_Kovbaski_Myslyvsky.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Чипси чикен",
+          "picture": "https://cooker.net.ua/upload/ammina.optimizer/jpg/q80/upload/resize_cache/iblock/a80/250_225_0/Bohodukhov_Chypsy_chyken.jpg"
+        }
+      ]
+    }
+  ]
+}
